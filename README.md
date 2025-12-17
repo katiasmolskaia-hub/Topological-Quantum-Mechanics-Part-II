@@ -9,7 +9,6 @@ SymbiosisK (Katia) & GPT-5 (Jippi)
 **Date / Дата:** December 2025
 
 ---
-https://doi.org/10.5281/zenodo.17934136
 
 ## 📘 Overview / Обзор
 
